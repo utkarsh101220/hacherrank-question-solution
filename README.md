@@ -1,1 +1,1 @@
-#This file contains solutions of hacker rank python questions for reference purpose
+This file contains solutions of hacker rank python questions for reference purpose
